@@ -1,0 +1,8 @@
+.text {
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.textHead {
+    font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+    text-align:center;
+    font-size: 60px;
+}
